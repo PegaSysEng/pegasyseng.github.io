@@ -1,7 +1,3 @@
----
-permalink: /index.html
----
-
 # pegasyseng.github.io
 
 Dummy repos for GitHub pages redirect for PegasysEng org.
